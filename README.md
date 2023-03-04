@@ -24,3 +24,7 @@ $ brain-calc
 
 <a href="https://asciinema.org/a/85QqAjI0jr00QKzrUdIYGGBNw" target="_blank"><img src="https://asciinema.org/a/85QqAjI0jr00QKzrUdIYGGBNw.svg" /></a>
 
+$ brain-gcd
+
+<a href="https://asciinema.org/a/ypQ8igtmzckms5uttXwNhpMKH" target="_blank"><img src="https://asciinema.org/a/ypQ8igtmzckms5uttXwNhpMKH.svg" /></a>
+
