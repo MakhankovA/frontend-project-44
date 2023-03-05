@@ -12,7 +12,7 @@ const runGameEngine = (gameDescription, getQuestionResult) => {
 
   for (let i = 0; i < numberOfRounds; i += 1) {
     const [question, correctAnswer] = getQuestionResult();
-    console.log(`Question: ${question}`);
+    console.log(`Question:${question}`);
     const answer = readlineSync.question('Your answer: ');
     if (answer !== correctAnswer) {
       console.log(`"${answer}" is wrong answer ;(. Correct answer was "${correctAnswer}"`);
