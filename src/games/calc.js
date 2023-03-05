@@ -2,7 +2,7 @@ import getRandomNum from '../utils/randomNum.js';
 import runGameEngine from '../index.js';
 
 const operators = ['+', '-', '*'];
-const gameDescription = 'What is the result of the expression?';
+const gameQuestion = 'What is the result of the expression?';
 const calcNums = (num1, num2, operator) => {
   switch (operator) {
     case '+':
@@ -26,7 +26,7 @@ const getGameData = () => {
 };
 
 const runBrainCalc = () => {
-  runGameEngine(gameDescription, getGameData);
+  runGameEngine(gameQuestion, getGameData);
 };
 
 export default runBrainCalc;

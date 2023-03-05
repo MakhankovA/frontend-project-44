@@ -32,3 +32,7 @@ $ brain-progression
 
 <a href="https://asciinema.org/a/G4qf28PIDU7KYP9JA6PE6PFzS" target="_blank"><img src="https://asciinema.org/a/G4qf28PIDU7KYP9JA6PE6PFzS.svg" /></a>
 
+$ brain-prime
+
+<a href="https://asciinema.org/a/0xYpdoUcPudZscc7Q3d3G9IX4" target="_blank"><img src="https://asciinema.org/a/0xYpdoUcPudZscc7Q3d3G9IX4.svg" /></a>
+
