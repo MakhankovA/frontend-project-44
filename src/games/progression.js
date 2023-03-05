@@ -13,7 +13,7 @@ const getProgression = (startNumber, stepNumber, length) => {
 };
 
 const getGameData = () => {
-  const lengthOfProgression = 10
+  const lengthOfProgression = 10;
   const startNumber = getRandomNum(0, 100);
   const stepNumber = getRandomNum(0, 100);
   const progression = getProgression(
